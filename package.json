@@ -1,0 +1,28 @@
+{
+  "name": "sad-button",
+  "private": false,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vue": "^3.4.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sad-JingYang/ljy-button.git"
+  },
+  "author": "ljy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sad-JingYang/ljy-button/issues"
+  },
+  "homepage": "https://github.com/sad-JingYang/ljy-button#readme",
+  "keywords": [
+    "sad-button",
+    "button",
+    "ljy"
+  ]
+}
